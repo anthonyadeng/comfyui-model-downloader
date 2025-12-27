@@ -32,7 +32,6 @@ Parameters:
 
 Parameters:
 * model_id: CivitAI model ID
-* version_id: CivitAI model version ID
 * token_id: CivitAI token ID
 * save_dir: destination directory
 
